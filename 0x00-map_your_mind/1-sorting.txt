@@ -1,0 +1,10 @@
+read: n, o, i
+if n>o
+ swap(n,o)
+else if o>i
+ swap(o,i)
+else if n>o
+ swap (n,o)
+else if 
+ display n, o, i
+
