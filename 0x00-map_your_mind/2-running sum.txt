@@ -1,0 +1,6 @@
+start program
+SET sum = 0
+Read number N from user.
+While N is positive (N >= 0) add N to sum (sum += N) and go to read number
+if N is negative Display sum.
+Program stops.
